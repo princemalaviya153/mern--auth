@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# VS Code settings
+.vscode/
+
+# Coverage directory
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
